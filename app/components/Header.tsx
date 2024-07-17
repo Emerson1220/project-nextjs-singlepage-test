@@ -7,9 +7,9 @@ export default function Header() {
                 <div className="text-2xl font-bold">Mon Portfolio</div>
                 <div className="space-x-4">
                     <Link href="#presentation">Présentation</Link>
-                    <Link href="#skills"></Link>
-                    <Link href="#projects"></Link>
-                    <Link href="#contact"></Link>
+                    <Link href="#skills">Skills</Link>
+                    <Link href="#projects">Mes projets</Link>
+                    <Link href="#contact">Contact</Link>
                 </div>
             </nav>
         </header>
